@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+div{
+	width:300px;
+	height:350px;
+	border:1px solid red;
+	border-radius:10px;
+	background:steelblue;
+	margin:auto;
+}
+
+input{
+	border:1px solid black
+}
+#name,#phone,#address,#submit{
+	width:100%
+}
+form{
+	margin:30px
+}
